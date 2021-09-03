@@ -57,7 +57,7 @@ img {
     overflow: hidden;
 }
 
-.btc-qr img:first-child { 
+.btc-qr img[src="assets/images/QR.jpg"] { 
     display: flex;
 }
 
