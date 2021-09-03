@@ -56,7 +56,9 @@ img {
     width: 100%;
     overflow: hidden;
 }
-
+.foo img:first-child { 
+    display: flex;
+}
 ul {
     padding: 0;
     margin: 0;
