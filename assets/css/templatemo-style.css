@@ -57,6 +57,10 @@ img {
     overflow: hidden;
 }
 
+.btc-qr img[src="assets/images/QR.jpg"] { 
+    display: flex;
+}
+
 ul {
     padding: 0;
     margin: 0;
