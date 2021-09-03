@@ -40,6 +40,7 @@ a:hover {
 }
 
 p {
+	text-align: center;
     font-size: 16px;
     line-height: 24px;
     color: #fff;
@@ -55,10 +56,6 @@ h4 {
 img {
     width: 100%;
     overflow: hidden;
-}
-
-.btc-qr img[src="assets/images/QR.jpg"] { 
-    display: flex;
 }
 
 ul {
@@ -85,6 +82,15 @@ html {
     box-sizing: inherit;
 }
 
+
+.qr-code {
+	display: block;
+	height: 200;
+	width: auto;
+	margin-left: auto;
+    margin-right: auto;
+	
+}
 .clearfix {
     zoom: 1;
 }
