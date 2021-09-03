@@ -117,15 +117,15 @@ html {
     display: inline-block;
     font-size: 16px;
     font-weight: 700;
-    color: #fff;
+    color: #4a7549;
     width: 100%;
     transition: all 0.5s;
-    border-top: 2px solid #fff;
+    border-top: 2px solid #4a7549;
 }
 
 .main-nav li:hover a,
 .main-nav li.active a {
-    background: #fff;
+    background: #4a7549;
     color: #8c363e;
 }
 
