@@ -55,6 +55,14 @@ h4 {
 img {
     width: 100%;
     overflow: hidden;
+    
+    
+}
+
+#over img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 ul {
