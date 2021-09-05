@@ -335,7 +335,7 @@ html {
 .white-button a {
     display: inline-block;
     padding: 12px 20px;
-    background-color: #fff;
+    background-color: #38b32f;
     color: #a43f49;
     font-size: 13px;
     font-weight: 800;
@@ -352,7 +352,7 @@ html {
 button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #fff;
+    background-color: #38b32f;
     color: #a43f49;
     font-size: 12px;
     font-weight: 800;
