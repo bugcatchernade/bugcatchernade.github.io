@@ -135,7 +135,7 @@ html {
 
 .main-nav li:hover a,
 .main-nav li.active a {
-    background-image: url(assets/images/nav-bg.png);
+    background-image: url(../images/nav-bg.png);
     color: #18db09;
 }
 
