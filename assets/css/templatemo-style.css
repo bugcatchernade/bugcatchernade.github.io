@@ -136,7 +136,7 @@ html {
 .main-nav li:hover a,
 .main-nav li.active a {
     background: #fff;
-    color: #8c363e;
+    color: #74d53d;
 }
 
 /* Sidebar Menu */
@@ -294,7 +294,7 @@ html {
 /* Section */
 
 .section {
-    color: #38b32f;
+    color: #fff;
     width: 55%;
     right: 10%;
     left: 35%;
@@ -335,7 +335,7 @@ html {
 .white-button a {
     display: inline-block;
     padding: 12px 20px;
-    background-color: #38b32f;
+    background-color: #fff;
     color: #a43f49;
     font-size: 13px;
     font-weight: 800;
@@ -352,8 +352,8 @@ html {
 button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #38b32f;
-    color: #a43f49;
+    background-color: #fff;
+    color: #fff;
     font-size: 12px;
     font-weight: 800;
     letter-spacing: 0.5px;
