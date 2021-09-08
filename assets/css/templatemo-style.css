@@ -532,6 +532,7 @@ section.my-work .section-heading {
 
 .isotope-item {
     position: relative;
+	height: 570px;
     width: 48%;
     margin: 1%;
     border-bottom: 2px solid rgba(250,250,250,0.1);
@@ -546,6 +547,7 @@ section.my-work .section-heading {
     height: 100%;
     border-radius: 5px;
 }
+
 
 .lazyload {
     background: #18db09;
