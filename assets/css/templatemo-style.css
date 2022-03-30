@@ -496,7 +496,13 @@ button:hover {
 .service-item:hover .seventh-service-icon {
     background-image: url(../images/seventh-main-icon.png);
 }
+.service-item .eight-service-icon {
+    background-image: url(../images/eigth-white-icon.png);
+}
 
+.service-item:hover .eigth-service-icon {
+    background-image: url(../images/eigth-main-icon.png);
+}
 /* My Work */
 
 section.my-work .section-heading {
