@@ -503,6 +503,9 @@ button:hover {
 .service-item:hover .eigth-service-icon {
     background-image: url(../images/eigth-main-icon.png);
 }
+
+.service-item .ninth-service-icon {                                                       background-image: url(../images/ninth-white-icon.png);                            }                                                                                                                                                                               .service-item:hover .ninth-service-icon {                                                 background-image: url(../images/ninth-main-icon.png);                             }                                                                                       .service-item .tenth-service-icon {                                                         background-image: url(../images/tenth-white-icon.png);                              }                                                                                                                                                                               .service-item:hover .tenth-service-icon {                                                   background-image: url(../images/tenth-main-icon.png);                               }
+
 /* My Work */
 
 section.my-work .section-heading {
