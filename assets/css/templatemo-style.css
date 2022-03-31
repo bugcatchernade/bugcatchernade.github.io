@@ -843,6 +843,12 @@ section.contact-me {
     .right-image-post img {
         margin-top: 30px;
     }
+    .center-image-post img {
+        margin-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
     .isotope-item {
         border-bottom: none;
         text-align: center;
