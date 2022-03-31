@@ -84,11 +84,12 @@ html {
 
 
 .qr-code {
-	display: block;
-	height: 200;
-	width: auto;
-	margin-left: auto;
+    display: block;
+	position: absolute;
+    padding-top: 20px;
+    margin-left: auto;
     margin-right: auto;
+
 	
 }
 .clearfix {
@@ -378,9 +379,14 @@ button:hover {
     padding-top: 60px;
     border-top: 2px solid rgba(250, 250, 250, 0.1);
 }
-
+.center-image {
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
 .left-image img,
-.center-image img,
 .right-image img {
     border-radius: 5px;
 }
