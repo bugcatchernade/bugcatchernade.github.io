@@ -380,6 +380,7 @@ button:hover {
 }
 
 .left-image img,
+.center-image img,
 .right-image img {
     border-radius: 5px;
 }
