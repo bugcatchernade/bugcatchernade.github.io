@@ -136,7 +136,7 @@ html {
 
 .main-nav li:hover a,
 .main-nav li.active a {
-    background-image: url(../images/navbar.jpg);
+    background-image: url(../images/future_nyc.png);
     color: #18db09;
 }
 
@@ -234,7 +234,7 @@ html {
     left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-image: url(../images/navbar.jpg);
+  background-image: url(../images/future_nyc.png);
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
